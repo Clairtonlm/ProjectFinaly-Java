@@ -4,7 +4,7 @@ Este é um aplicativo Java simples que lê dados de um arquivo CSV contendo info
 
 ## Requisitos
 
-- Java 8 ou superior
+- Java 17 ou superior
 - Arquivo CSV contendo os dados dos produtos
 
 ## Funcionalidades
